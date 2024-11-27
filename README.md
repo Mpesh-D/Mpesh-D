@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Mpendulo
-🔭 Aspiring Cloud & DevOps Engineer with an AWS Cloud Practitioner certification<br>🌱 Currently learning Python and working on building cloud infrastructure and automation projects using AWS<br>👯 I’m looking to collaborate on cloud, DevOps, and software engineering projects that involve automation, infrastructure, or development<br>⚡ Fun fact: I enjoy breaking down complex challenges into smaller, manageable tasks and thrive in structured environments
+🔭 Aspiring Software & DevOps Engineer with an AWS Cloud Practitioner certification<br>🌱 Currently learning Python and working on building cloud infrastructure and automation projects using AWS<br>👯 I’m looking to collaborate on cloud, DevOps, and software engineering projects that involve automation, infrastructure, or development<br>⚡ Fun fact: I enjoy breaking down complex challenges into smaller, manageable tasks and thrive in structured environments
 
 
 # 💻 Tech Stack
